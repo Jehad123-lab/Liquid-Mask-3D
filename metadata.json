@@ -1,0 +1,5 @@
+{
+  "name": "Liquid Mask 3D",
+  "description": "A high-performance interactive 3D scene featuring a liquid blob masking effect revealing internal mesh structures, built with React, Three.js, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
